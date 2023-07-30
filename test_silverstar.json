@@ -1,0 +1,846 @@
+{
+    "rdapConformance": [
+        "nro_rdap_profile_0",
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                    "rel": "terms-of-service",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                    "rel": "inaccuracy-report",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2023, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-217-147-184-0-1",
+    "startAddress": "217.147.184.0",
+    "endAddress": "217.147.191.255",
+    "ipVersion": "v4",
+    "name": "SILVERSTAR-11",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-217-0-0-0-1",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "Geofeed https://raw.githubusercontent.com/SSC-DevOPS/SSC-Geofeed/main/geofeed.csv"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2023-05-22T17:10:08-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2017-01-24T11:05:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/217.147.184.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-217-147-184-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "SILV",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Silver Star Communications"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "104101 US Highway89\r\nPO Box 226\nFreedom\nWY\n83120\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/SILV"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/SILV"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-07-09T12:14:40-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2002-07-17T00:00:00-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "CTB2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "104010 US Hwy. 89\nFreedom\nWY\n83120\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Clay Thomas Brog"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Brog",
+                                    "Clay",
+                                    "Thomas",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "cbrog@silverstar.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-6687"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "cell"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-880-6687"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "fax"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-6701"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/CTB2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/CTB2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2022-11-02T18:09:48-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-08-15T11:01:03-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "SSN26-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1014101 US HWY 89\nFreedom\nWY\n83120\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Silver Star NOC"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Silver Star NOC"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "noc@silverstar.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-201-5555"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "noc",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/SSN26-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/SSN26-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2023-07-04T18:44:30-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2021-07-09T10:22:16-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KSL5-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "104101 Hwy 89\nFreedom\nWY\n83120\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Kevin Sherald Lewis"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Lewis",
+                                    "Kevin",
+                                    "Sherald",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "klewis@silverstar.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-6640"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/KSL5-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/KSL5-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2023-03-17T09:59:41-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2005-05-31T15:19:37-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "STARC7-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "104101 Hwy 89\nFreedom\nWY\n83120\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Jeff Starcer"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Starcer",
+                                    "Jeff",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "jstarcer@silverstar.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-6632"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "cell"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-880-6632"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "fax"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-6600"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2022-07-09"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/STARC7-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/STARC7-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-07-09T12:13:44-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2016-08-18T14:50:45-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "MOTZK-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "PO Box 226\nFreedom\nWY\n83120\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Michelle Motzkus"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Motzkus",
+                                    "Michelle",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "legal.notices@silverstar.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-6690"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "fax"
+                                    ]
+                                },
+                                "text",
+                                "+1-307-883-2575"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/MOTZK-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/MOTZK-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2023-05-15T17:01:57-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-08-05T10:56:57-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KSL5-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "104101 Hwy 89\nFreedom\nWY\n83120\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kevin Sherald Lewis"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Lewis",
+                            "Kevin",
+                            "Sherald",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "klewis@silverstar.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-307-883-6640"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/KSL5-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/217.147.184.0",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/KSL5-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-03-17T09:59:41-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-05-31T15:19:37-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "217.147.184.0",
+            "length": 21
+        }
+    ],
+    "arin_originas0_originautnums": [
+        26223
+    ]
+}
